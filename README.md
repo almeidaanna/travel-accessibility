@@ -1,3 +1,19 @@
+## Author
+**Anna Mary ALmeida**
+
+## Date
+**08-11-2024**
+
+## Description
+**Accessible Tourist Spots** is an inclusive travel planning application that helps users with diverse accessibility needs discover and plan visits to tourist spots tailored to their requirements. The app allows users to filter locations based on accessibility features and ratings, add selected spots to a custom travel plan, and view details on an interactive map.
+
+## Features
+- **Filter Tourist Spots**: Easily filter locations based on accessibility requirements and ratings.
+- **Interactive Map**: View and interact with map markers to see details for each tourist spot.
+- **Custom Travel Plan**: Add and remove spots from a personalised itinerary, with visual highlights for selected locations.
+- **Curated Itinerary**: Finalise your travel plan to receive an optimised itinerary based on your selected spots and trip duration, with booking options and available discounts.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
